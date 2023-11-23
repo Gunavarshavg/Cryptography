@@ -52,3 +52,10 @@ int main() {
     return 0;
 }
  
+OUTPUT:
+Original Public Key: (e=17, n=3233)
+Original Private Key: (d=2853, n=3233)
+
+New Public Key: (e=17, n=3180)
+New Private Key: (d=361, n=3180)
+ 
