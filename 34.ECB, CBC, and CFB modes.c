@@ -28,3 +28,7 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Plaintext: This is a sample message
+Ciphertext: 400300004003000040030000400300004003000040030000
