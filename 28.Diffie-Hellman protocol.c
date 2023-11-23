@@ -33,3 +33,7 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Shared Secret (Alice): 1
+Shared Secret (Bob): 1
