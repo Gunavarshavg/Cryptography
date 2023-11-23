@@ -49,3 +49,7 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Subkey 1: 00 00 00 00 00 00 0e 
+Subkey 2: 00 00 00 00 00 00 0e
